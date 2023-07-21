@@ -1,7 +1,15 @@
-### Hi there 👋
+
+    ____  ________    ___________    ________
+   / __ )/ ____/ /   /  _/ ____/ |  / / ____/
+  / __  / __/ / /    / // __/  | | / / __/   
+ / /_/ / /___/ /____/ // /___  | |/ / /___   
+/_____/_____/_____/___/_____/  |___/_____/   
+                                             
 
 <!--
 **jk4e/jk4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
