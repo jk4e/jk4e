@@ -1,4 +1,7 @@
-                                         
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71FF7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+welcome+to+my+Github!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Currently+doing+a+lot+of+%F0%9F%90%8D+coding)](https://git.io/typing-svg)
+
 <!--
 **jk4e/jk4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
