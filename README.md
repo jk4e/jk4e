@@ -26,8 +26,6 @@
 
 [memesAndJokesAboutEverythingProgrammingAndCS](https://www.reddit.com/r/ProgrammerHumor/) (I can highly recommend it for a smile)
 
-![Snake animation](https://github.com/jk4e/jk4e/blob/output/github-contribution-grid-snake.svg)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
