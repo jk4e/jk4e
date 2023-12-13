@@ -21,12 +21,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jk4e&theme=dark" alt="jk4e" /></p>
 
+<!--
+
 ### 😂 Dev Meme (not mine, but I feel it)
 <img src="https://github.com/jk4e/jk4e/assets/116908874/a4ff969e-08b1-4351-8699-a6159f2eaedf" alt="meme" width="400"/>
 
 [memesAndJokesAboutEverythingProgrammingAndCS](https://www.reddit.com/r/ProgrammerHumor/) (I can highly recommend it for a smile)
 
-
+ -->
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- 
