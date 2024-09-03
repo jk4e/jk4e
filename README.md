@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=CF13F7&background=8DFF7A00&repeat=false&width=1000&lines=%F0%9F%91%8B+Hi%2C+welcome+to+my+GitHub+profile!;Nice+to+meet+you!+%F0%9F%9A%80;jk4e+--%3E+ML%2C+Python%2C+Open+Source+and+more+...++%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=CF13F7&background=8DFF7A00&repeat=false&width=1000&lines=%F0%9F%91%8B+Hi%2C+welcome+to+my+GitHub+profile!;Nice+to+meet+you!+%F0%9F%9A%80;jk4e+--%3E+ML%2C+Python%2C+Open+Source+and+more+...++%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 <h3 align="center">🚧 Learning in progress ... , on track 🛤</h3>
 
