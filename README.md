@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats:
 
-| <a href="https://github.com/jk4e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jk4e&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="jk4e's github stats" /></a> | <a href="https://github.com/jk4e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk4e&layout=compact&theme=dark&locale=en" /></a> |
+| <a href="https://github.com/jk4e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jk4e&show_icons=true&include_all_commits=true&theme=dark&locale=en&hide_border=true" alt="jk4e's github stats" /></a> | <a href="https://github.com/jk4e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk4e&layout=compact&theme=dark&locale=en&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
